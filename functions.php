@@ -23,6 +23,7 @@ function riacotheme_style() {
 }
 add_action( 'wp_enqueue_scripts', 'riacotheme_style' );
 
+
 if ( ! function_exists( 'riacotheme_setup' ) ) {
 	function riacotheme_setup() {
             add_theme_support( 'wp-block-styles' );
