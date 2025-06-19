@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Latest 10 posts
- * Slug: riaco-theme/latest-10-posts
+ * Slug: riacot/latest-10-posts
  * Categories: 
  */
 ?>
@@ -30,7 +30,7 @@
 
 <!-- wp:query-no-results -->
 <!-- wp:paragraph {"placeholder":"Aggiungi testo o blocchi da visualizzare quando la query non restituisce alcun risultato."} -->
-<p><?php esc_html_e('No articles published yet.', 'riaco-theme');?></p>
+<p><?php esc_html_e('No articles published yet.', 'riacot');?></p>
 <!-- /wp:paragraph -->
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query -->

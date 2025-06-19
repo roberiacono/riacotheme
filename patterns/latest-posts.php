@@ -1,13 +1,13 @@
 <?php
 /**
  * Title: Latest posts
- * Slug: riaco-theme/latest-posts
+ * Slug: riacot/latest-posts
  * Categories: 
  */
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"base-2","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-base-2-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-right:0;padding-bottom:var(--wp--preset--spacing--80);padding-left:0"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
-<h2 class="wp-block-heading has-text-align-center has-contrast-color has-text-color has-link-color"><?php esc_html_e('Latest Posts', 'riaco-theme');?></h2>
+<h2 class="wp-block-heading has-text-align-center has-contrast-color has-text-color has-link-color"><?php esc_html_e('Latest Posts', 'riacot');?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator -->
@@ -28,7 +28,7 @@
 
 <!-- wp:query-no-results -->
 <!-- wp:paragraph {"placeholder":"Add text or blocks that will display when a query returns no results."} -->
-<p><?php esc_html_e('No articles published yet.', 'riaco-theme');?></p>
+<p><?php esc_html_e('No articles published yet.', 'riacot');?></p>
 <!-- /wp:paragraph -->
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query --></div>
@@ -36,7 +36,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('View all posts', 'riaco-theme');?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('View all posts', 'riacot');?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->

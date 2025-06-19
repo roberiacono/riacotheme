@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: footer
- * Slug: riaco-theme/footer
+ * Slug: riacot/footer
  * Inserter: no
  */
 ?>
@@ -10,7 +10,7 @@
 <div class="wp-block-group alignwide"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|70"}},"layout":{"selfStretch":"fill","flexSize":null}}} -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"textColor":"base"} -->
-<h3 class="wp-block-heading has-base-color has-text-color has-link-color"><?php esc_html_e('Follow me', 'riaco-theme');?></h3>
+<h3 class="wp-block-heading has-base-color has-text-color has-link-color"><?php esc_html_e('Follow me', 'riacot');?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:social-links {"iconColor":"base","iconColorValue":"#ffffff","openInNewTab":true,"className":"is-style-logos-only","layout":{"type":"flex","flexWrap":"wrap"}} -->
@@ -26,7 +26,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"textColor":"base"} -->
-<h3 class="wp-block-heading has-base-color has-text-color has-link-color"><?php esc_html_e('Links', 'riaco-theme');?></h3>
+<h3 class="wp-block-heading has-base-color has-text-color has-link-color"><?php esc_html_e('Links', 'riacot');?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:navigation {"overlayMenu":"never","style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} /--></div>
@@ -34,7 +34,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"textColor":"base"} -->
-<h3 class="wp-block-heading has-base-color has-text-color has-link-color"><?php esc_html_e('About Me', 'riaco-theme');?></h3>
+<h3 class="wp-block-heading has-base-color has-text-color has-link-color"><?php esc_html_e('About Me', 'riacot');?></h3>
 <!-- /wp:heading -->
 
 <!-- wp:image {"width":"100px","height":"100px","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded"} -->
@@ -42,7 +42,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><?php esc_html_e('Passionate creator focused on building meaningful digital experiences. Always learning, always improving.', 'riaco-theme');?></p>
+<p><?php esc_html_e('Passionate creator focused on building meaningful digital experiences. Always learning, always improving.', 'riacot');?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -56,7 +56,7 @@
 <div class="wp-block-group alignwide"><!-- wp:site-title {"level":0} /-->
 
 <!-- wp:paragraph -->
-<p><?php esc_html_e('Powered by WordPress.', 'riaco-theme');?></p>
+<p><?php esc_html_e('Powered by WordPress.', 'riacot');?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

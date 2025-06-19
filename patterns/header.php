@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: header
- * Slug: riacotheme/header
+ * Slug: riacot/header
  * Inserter: no
  */
 ?>
@@ -17,7 +17,7 @@
 
 <!-- wp:buttons {"style":{"spacing":{"blockGap":{"top":"0"}}}} -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://localhost/test/test/"><?php esc_html_e('Contact me', 'riacotheme');?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="http://localhost/test/test/"><?php esc_html_e('Contact me', 'riacot');?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

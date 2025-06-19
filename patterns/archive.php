@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: archive
- * Slug: riaco-theme/archive
+ * Slug: riacot/archive
  * Inserter: no
  */
 ?>
@@ -35,7 +35,7 @@
 
 <!-- wp:query-no-results -->
 <!-- wp:paragraph {"placeholder":"Aggiungi testo o blocchi da visualizzare quando la query non restituisce alcun risultato."} -->
-<p><?php esc_html_e('No articles published yet.', 'riaco-theme');?></p>
+<p><?php esc_html_e('No articles published yet.', 'riacot');?></p>
 <!-- /wp:paragraph -->
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query --></main>

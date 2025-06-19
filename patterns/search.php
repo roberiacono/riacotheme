@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: search
- * Slug: riaco-theme/search
+ * Slug: riacot/search
  * Inserter: no
  */
 ?>
@@ -35,7 +35,7 @@
 
 <!-- wp:query-no-results -->
 <!-- wp:paragraph {"placeholder":"Aggiungi testo o blocchi da visualizzare quando la query non restituisce alcun risultato."} -->
-<p><?php esc_html_e('Sorry, no posts matched your criteria.', 'riaco-theme');?></p>
+<p><?php esc_html_e('Sorry, no posts matched your criteria.', 'riacot');?></p>
 <!-- /wp:paragraph -->
 <!-- /wp:query-no-results --></div>
 <!-- /wp:query --></main>
