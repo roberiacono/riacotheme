@@ -124,7 +124,7 @@
 			"background": "var(--wp--preset--color--base)",
 			"text": "var(--wp--preset--color--contrast)"
 		},
-		"css": ":root :where(.wp-site-blocks) > * {\n    margin-block-start: 0;\n    margin-block-end: 0;\n}",
+		"css": ":root :where(.wp-site-blocks) > * {\n    margin-block-start: 0;\n    margin-block-end: 0;\n}\n",
 		"elements": {
 			"button": {
 				"color": {
