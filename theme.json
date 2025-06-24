@@ -108,6 +108,14 @@
 					"width": null
 				}
 			},
+			"core/search": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--open-sans)",
+					"fontStyle": "normal",
+					"fontWeight": "400",
+					"lineHeight": "1.5"
+				}
+			},
 			"core/separator": {
 				"color": {
 					"background": "var(--wp--preset--color--primary)"
